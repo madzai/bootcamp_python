@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "John",
+    "age" : 17,
+    "city" : "Hong Kong",
+    "address" : {
+      "line1" : "Flat B",
+      "line2" : "Sunny Garden",
+      "country" : "China"
+    },
+    "phones" : [
+      "+852 12345678",
+      "+852 23456789"
+    ]
+  },
+  {
+    "name": "Mary",
+    "age": 20,
+    "city": "USA",
+    "address": {
+      "line1": "Flat C",
+      "line2": "City Garden",
+      "country": "USA"
+    },
+    "phones": ["+1 123 400 786", "+1 454 567 890"]
+  }
+]
